@@ -1,6 +1,7 @@
 package files;
-import java.io.*
-public class DuplicateCount {
+import java.io.*;
+public class DuplicateCount 
+{
 
 	public static void main(String[] args) throws Exception
 	{
