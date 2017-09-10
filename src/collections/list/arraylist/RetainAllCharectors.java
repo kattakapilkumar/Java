@@ -18,26 +18,48 @@ public class RetainAllCharectors {
 			words[i]=kapil.next();
 		}
 		ArrayList<Character> al   =  new ArrayList<Character>();
-		ArrayList<Character> al2  =  new ArrayList<Character>();
-		for(char ch='a';ch<='Z';ch++)
+		ArrayList<Character> alAPLHA  =  new ArrayList<Character>();
+		for(char ch='a';ch<='z';ch++)
 		{
-			al2.add(ch);			
+			alAPLHA.add(ch);			
 		}
+		/*Iterator itr2=al2.iterator();
+		while(itr2.hasNext())
+		{
+			System.out.println(itr2.next());
+		}*/
 		for(int k=0;k<words.length;k++)
 		{
 				String s2=words[k];
-				
+				System.out.println(words[k]);
 				for(char kapilchar:s2.toCharArray())
 				{
-					al2.add(kapilchar);
-					al.retainAll(al2);
+					al.add(kapilchar);
+					/*Iterator itr=al.iterator();
+					while(itr.hasNext())
+					{
+						System.out.println(itr.next());
+					}*/
+					
 				}
+				alAPLHA.retainAll(al);
 				
-				
+				/*Iterator itr1=al.iterator();
+				while(itr1.hasNext())
+				{
+					System.out.print(itr1.next());
+				}*/
 				
 				
 		}
 		
+		
+		System.out.println(alAPLHA.size());
+		/*Iterator itr1=alAPLHA.iterator();
+		while(itr1.hasNext())
+		{
+			System.out.print(itr1.next());
+		}*/
 		
 
 	}
