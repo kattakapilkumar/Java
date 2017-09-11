@@ -9,13 +9,14 @@ public class RetainAllCharectors {
 		// TODO Auto-generated method stub
 		
 		Scanner kapil = new Scanner(System.in);
-		System.out.println("enter the number of strings");
+		//System.out.println("enter the number of strings");
 		int n=kapil.nextInt();
-		System.out.println("entr the strings");
+		kapil.nextLine();
+		//System.out.println("entr the strings");
 		String[] words=new String[n];
 		for(int i=0;i<n;i++)
 		{
-			words[i]=kapil.next();
+			words[i]=kapil.nextLine();
 		}
 		ArrayList<Character> al   =  new ArrayList<Character>();
 		ArrayList<Character> alAPLHA  =  new ArrayList<Character>();
@@ -31,7 +32,7 @@ public class RetainAllCharectors {
 		for(int k=0;k<words.length;k++)
 		{
 				String s2=words[k];
-				System.out.println(words[k]);
+				//System.out.println(words[k]);
 				for(char kapilchar:s2.toCharArray())
 				{
 					al.add(kapilchar);
@@ -43,13 +44,21 @@ public class RetainAllCharectors {
 					
 				}
 				alAPLHA.retainAll(al);
+				al.clear();
 				
 				/*Iterator itr1=al.iterator();
 				while(itr1.hasNext())
 				{
 					System.out.print(itr1.next());
 				}*/
+				//System.out.println("now the size is");
+				//System.out.println(alAPLHA.size());
 				
+				//Iterator itr1=alAPLHA.iterator();
+			//	while(itr1.hasNext())
+			//	{
+			//		System.out.print(itr1.next());
+			//	}
 				
 		}
 		
