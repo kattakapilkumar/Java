@@ -11,10 +11,11 @@ public class SplitMethod1_For_Each
 		Scanner sc = new Scanner(System.in);
 		
 		String k=sc.nextLine();
+		String str2 = sc.nextLine();
 		char ch=sc.next().charAt(0);
 		
 		String words[]=k.split("\\s");
-		
+		String words1[]=str2.split("@");
 		for(String kapils:words)
 		{
 			char ch1[]=kapils.toCharArray();
@@ -44,6 +45,10 @@ public class SplitMethod1_For_Each
 		{
 			System.out.println(kapils2);
 		} */
+		for(String kapilstr2:words1)
+		{
+			System.out.println(kapilstr2);
+		}
 
 	}
 
