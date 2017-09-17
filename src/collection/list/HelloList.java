@@ -1,4 +1,4 @@
-package collections.list;
+package collection.list;
 
 public class HelloList {
 

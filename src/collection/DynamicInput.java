@@ -1,4 +1,4 @@
-package collections;
+package collection;
 
 import java.util.*;
 public class DynamicInput {
