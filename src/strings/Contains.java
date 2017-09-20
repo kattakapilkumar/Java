@@ -17,6 +17,10 @@ public class Contains
 		boolean rambo = str.contains(str2);
 		System.out.println(katta);
 		System.out.println(rambo);
+		
+		//*********  giving NON present values - which shoul return false
+		
+		//
 
 	}
 
