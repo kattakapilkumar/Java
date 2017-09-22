@@ -5,7 +5,11 @@ A Repo To Maintain Java Files.
 
 # Topics 
 
-# 1)Collections  
-    https://github.com/kattakapilkumar/Java/tree/master/src/collection
-# 2)
-    http://javapapers.com/java/java-concurrent-collections/
+  ## 1)Collections  
+        **Interfaces**
+        1)List
+        2)Set
+        3)Queue
+       
+  ## 2)Concurrent Collections
+    
