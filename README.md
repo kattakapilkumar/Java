@@ -6,7 +6,7 @@ A Repo To Maintain Java Files.
 # Topics 
 
   ## 1)Collections  
-        ** Interfaces **
+        __Interfaces__
         1)List
         2)Set
         3)Queue
