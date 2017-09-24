@@ -41,6 +41,6 @@ A Repo To Maintain Java Files.
         3)Queue
        
  ## 5)Concurrent Collections
-[] Read about concurrent collections
+- [ ] Read about concurrent collections
 
     
