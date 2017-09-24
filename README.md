@@ -16,12 +16,17 @@ A Repo To Maintain Java Files.
     6) Polymorphism
        i) Static Polymorphism
        ii) Dynamic Polymorphism 
+  ## 2)Type-Casting
+###     1) Variable Type-Casting
+
+###     2) Object Type-Casting
+
  ## 2)Exception Handling 
        Error vs Exception
        1) Recovering from Error is not possible. The only solution to errors is to terminate the execution. 
        Where as you can recover from Exception by using either try-catch blocks or throwing exception back to caller.
-       ###### Error : An Error "indicates serious problems that a reasonable application should not try to catch."
-       Exception : An Exception "indicates conditions that a reasonable application might want to catch."
+######  Error : An Error "indicates serious problems that a reasonable application should not try to catch."
+######  Exception : An Exception "indicates conditions that a reasonable application might want to catch."
            
 
  ## 3)Collections  
