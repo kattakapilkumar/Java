@@ -15,14 +15,17 @@ A Repo To Maintain Java Files.
        ii) Has - A- Relationship  (composition and aggregation)
     6) Polymorphism
        i) Static Polymorphism
-       ii) Dynamic Polymorphism
+       ii) Dynamic Polymorphism 
+ ## 2)Exception Handling 
+      ### Error vs Exception
+          #### Error :
            
 
- ## 2)Collections  
+ ## 3)Collections  
         Interfaces 
         1)List
         2)Set
         3)Queue
        
- ## 3)Concurrent Collections
+ ## 4)Concurrent Collections
     
