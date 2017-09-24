@@ -1,5 +1,3 @@
-# Java
-A Repo To Maintain Java Files.
 
 
 
