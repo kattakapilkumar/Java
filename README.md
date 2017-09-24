@@ -20,6 +20,7 @@ A Repo To Maintain Java Files.
 ######     1) Variable Type-Casting
 
 ######     2) Object Type-Casting
+[Link to Object-TypeCasting in my Repo](https://github.com/kattakapilkumar/Java/tree/master/src/object_TypeCasting).
 
  ## 2)Exception Handling 
        Error vs Exception
