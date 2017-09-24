@@ -5,7 +5,7 @@ A Repo To Maintain Java Files.
 
 # Topics
  ## 1)OOPS Concepts
-###### [Link of OOPS Concepts Examples in my Repo] (https://github.com/kattakapilkumar/Java/tree/master/src/collection)
+###### [Link of OOPS Concepts Examples in my Repo](https://github.com/kattakapilkumar/Java/tree/master/src/oops_concepts)
     
 ######    These are important object oriented programming system Concepts <br />
     1) Data Hiding
