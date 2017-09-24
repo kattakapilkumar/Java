@@ -21,7 +21,7 @@
 [Link to Examples of Object-TypeCasting in my Repo](https://github.com/kattakapilkumar/Java/tree/master/src/object_TypeCasting).
 
  ## 3)Exception Handling 
- ######      Error vs Exception
+ ######      **Error vs Exception**
        1) Recovering from Error is not possible. The only solution to errors is to terminate the execution. 
        Where as you can recover from Exception by using either try-catch blocks or throwing exception back to caller.
 ######  Error : An Error "indicates serious problems that a reasonable application should not try to catch."
