@@ -1,12 +1,8 @@
-
-
-
 # Topics
 #### **Below are the few importent topics in java**
 ##  **To Find out more topics and examples check [src](https://github.com/kattakapilkumar/Java/tree/master/src) folder**
  ## 1)OOPS Concepts
 ###### [Link of OOPS Concepts Examples in my Repo](https://github.com/kattakapilkumar/Java/tree/master/src/oops_concepts)
-    
 ######    These are important object oriented programming system Concepts <br />
     1) Data Hiding
     2) Abstraction
