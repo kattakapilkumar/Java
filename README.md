@@ -5,8 +5,9 @@ A Repo To Maintain Java Files.
 
 # Topics
  ## 1)OOPS Concepts
- [Link of OOPS Concepts Examples in my Repo](https://github.com/kattakapilkumar/Java/tree/master/src/collection).
-    These are important object oriented programming system Concepts
+###### [Link of OOPS Concepts Examples in my Repo] (https://github.com/kattakapilkumar/Java/tree/master/src/collection)
+    
+######    These are important object oriented programming system Concepts <br />
     1) Data Hiding
     2) Abstraction
     3) Encapsulation
@@ -17,6 +18,8 @@ A Repo To Maintain Java Files.
     6) Polymorphism
        i) Static Polymorphism
        ii) Dynamic Polymorphism 
+       
+       
   ## 2)Type-Casting
 ######     1) Variable Type-Casting
 
