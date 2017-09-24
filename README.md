@@ -17,9 +17,9 @@ A Repo To Maintain Java Files.
        i) Static Polymorphism
        ii) Dynamic Polymorphism 
   ## 2)Type-Casting
-###     1) Variable Type-Casting
+######     1) Variable Type-Casting
 
-###     2) Object Type-Casting
+######     2) Object Type-Casting
 
  ## 2)Exception Handling 
        Error vs Exception
