@@ -26,7 +26,7 @@ A Repo To Maintain Java Files.
 ######     2) Object Type-Casting
 [Link to Examples of Object-TypeCasting in my Repo](https://github.com/kattakapilkumar/Java/tree/master/src/object_TypeCasting).
 
- ## 2)Exception Handling 
+ ## 3)Exception Handling 
        Error vs Exception
        1) Recovering from Error is not possible. The only solution to errors is to terminate the execution. 
        Where as you can recover from Exception by using either try-catch blocks or throwing exception back to caller.
@@ -34,11 +34,11 @@ A Repo To Maintain Java Files.
 ######  Exception : An Exception "indicates conditions that a reasonable application might want to catch."
            
 
- ## 3)Collections  
+ ## 4)Collections  
         Interfaces 
         1)List
         2)Set
         3)Queue
        
- ## 4)Concurrent Collections
+ ## 5)Concurrent Collections
     
