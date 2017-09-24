@@ -17,8 +17,8 @@ A Repo To Maintain Java Files.
        i) Static Polymorphism
        ii) Dynamic Polymorphism 
  ## 2)Exception Handling 
-      ### Error vs Exception
-          #### Error :
+      ## Error vs Exception
+          ## Error :
            
 
  ## 3)Collections  
