@@ -29,10 +29,15 @@
            
  ## 4)Collections Framework Overview
  ###### Interfaces 
-        1)List
-        2)Set
-        3)Queue
-        4) 
+        1)collection
+           2)List
+           3)Set
+             4)SortedSet
+             5)NavigableSet
+           5)Queue
+        6)Map 
+           
+          
  ## 5)Files I/O
          1)
        
