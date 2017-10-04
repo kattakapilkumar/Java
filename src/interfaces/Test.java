@@ -1,7 +1,7 @@
 package interfaces;
 
 
-public  class Test implements Test1 
+public abstract  class Test implements Test1 
 {
 	public static void main(String[] args) 
 	{
@@ -9,12 +9,6 @@ public  class Test implements Test1
 
 	}
 
-	@Override
-	public void show() {
-		// TODO Auto-generated method stub
-		
-	}
-	
 	
 	
 	
