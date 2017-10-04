@@ -18,6 +18,17 @@
        i) Static Polymorphism
        ii) Dynamic Polymorphism
   ## 4)Multi-Threading
+  ###### [Link of OOPS Concepts Examples in my Repo](https://github.com/kattakapilkumar/Java/tree/master/src/oops_concepts)
+       1)Introduction
+       2)The ways to defile a Thread
+       3)Getting and Setting name of a Thread
+       4)Thred Priorities
+       5)The methods to prevent Thread execution
+       6)Synchronization
+       7)
+       8)
+       9)
+       10)
   ## 4.1)Enhanced Multi-Threading
   ## 5)Type-Casting
 ######     1) Variable Type-Casting
