@@ -1,5 +1,7 @@
 package constructors;
 
-public class Default_Constructor {
+ class Default_Constructor 
+ {
 
 }
+
