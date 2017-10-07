@@ -34,7 +34,7 @@
        8)
        9)
        10)
-  ## 4.1)Enhanced Multi-Threading
+  ## 4.1)Multi-Threading Enhancement
   ## 5)Type-Casting
 ######     1) Variable Type-Casting
 
