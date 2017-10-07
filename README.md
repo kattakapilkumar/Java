@@ -35,8 +35,7 @@
        9)
        10)
   ## 4.1)Multi-Threading Enhancement
-[mywiki]()on 
-###### [Examples of Enhanced-MultiThreading](https://github.com/kattakapilkumar/Java/tree/master/src/multi_threading/enhancement_multi_threading).         
+[mywiki]() For Theory **And** [Examples of Enhanced-MultiThreading](https://github.com/kattakapilkumar/Java/tree/master/src/multi_threading/enhancement_multi_threading).         
     1)ThreadGroup
          
   ## 5)Type-Casting
