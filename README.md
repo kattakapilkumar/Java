@@ -4,6 +4,9 @@
 ##  **And for notes and description check [mywiki](https://github.com/kattakapilkumar/Java/wiki)**
  ## 1)JVM Architecture
  ## 2)Constructors
+ ## 3)Declarations ans Access Modifiers
+      For examples[]()
+      For Theory[]()
  
  ## 3)OOPS Concepts
 ###### [Link of OOPS Concepts Examples in my Repo](https://github.com/kattakapilkumar/Java/tree/master/src/oops_concepts)
