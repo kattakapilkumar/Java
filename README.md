@@ -6,7 +6,7 @@
  ## 2)Constructors
  ## 3)Declarations ans Access Modifiers
       For examples[]()
-      For Theory[]()
+      For Theory[mywiki_page](https://github.com/kattakapilkumar/Java/wiki/Declarations-and-Access-Modifiers).
  
  ## 3)OOPS Concepts
 ###### [Link of OOPS Concepts Examples in my Repo](https://github.com/kattakapilkumar/Java/tree/master/src/oops_concepts)
