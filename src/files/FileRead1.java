@@ -11,6 +11,9 @@ public class FileRead1
 	{
 		// TODO Auto-generated method stub
 		File f=new File("java2.txt");
+		
+		
+		
 		char[] ch = new char[(int)f.length()];
 		long length1 = f.length();
 		System.out.println(length1);
