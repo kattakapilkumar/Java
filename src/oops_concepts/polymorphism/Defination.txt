@@ -1,0 +1,25 @@
+1)   Static 'polymorphism '
+      OR  
+         complie time polymorphism
+         
+         
+         OR
+         
+         overloading
+         
+         OR
+           EARLY BINDING
+           
+           
+           
+ 2)    Dynamic polymorphism
+ 
+ 		OR
+ 		    runtime polymorphism
+ 		    
+ 		    OR
+ 		      
+ 		      overriding
+ 		      
+ 		      OR
+ 		        LATE BIDING          

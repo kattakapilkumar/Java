@@ -18,7 +18,7 @@ public class MAIN_With_Abstract_Method
 		public String getEmpCode() {
 	        return empCode;
 	    }
-		
+	
 		 public void setEmpCode(String empCode) {
 		        this.empCode = empCode;
 		    }
