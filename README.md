@@ -22,7 +22,7 @@
     6) Polymorphism
        i) Static Polymorphism
        ii) Dynamic Polymorphism
-###### Automatic Promotion in method overloading span style="color: green"> Some green text </span>
+###### Automatic Promotion in method overloading <span style="color: green"> Some green text </span>
   ## 4)Multi-Threading
   ###### [Link of OOPS Concepts Examples in my Repo](https://github.com/kattakapilkumar/Java/tree/master/src/oops_concepts)
        1)Introduction
