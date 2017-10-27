@@ -17,9 +17,7 @@ public class Overriding_Method_Part2 {
 			
 			//very imp
 			pobj1.method1();
-
 		}
-
 	}
 	class Parent1 
 	{
