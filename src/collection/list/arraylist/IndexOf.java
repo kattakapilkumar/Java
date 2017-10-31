@@ -19,6 +19,10 @@ public class IndexOf
 		}
 		System.out.println(al.indexOf(1));
 		
+		int size = al.size();
+		
+	
+		
 		
 		
 
