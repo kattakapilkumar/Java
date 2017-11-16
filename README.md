@@ -8,7 +8,11 @@
  ## 3)Declarations ans Access Modifiers
       For examples[]()
    For Theory[mywiki_page](https://github.com/kattakapilkumar/Java/wiki/Declarations-and-Access-Modifiers).
- 
+######   Concepts:
+   1) Java source file structure.
+   2) class level modifiers.
+   3) members level modifires.
+   4) Interface. 
  ## 3)OOPS Concepts
 ###### [Link of OOPS Concepts Examples in my Repo](https://github.com/kattakapilkumar/Java/tree/master/src/oops_concepts)
 ######    These are important object oriented programming system Concepts <br />
