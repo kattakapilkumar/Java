@@ -4,7 +4,7 @@ public class Throws_Exception_mainMethod
 {
 	public static void main(String[] args)  
 	{
-		dostuff();
+		//   dostuff();    //  ***   don't comment it ***
 	}
 	public static void dostuff() throws InterruptedException 
 	{

@@ -6,7 +6,7 @@ public class Throws_Exception_doStuff {
 	}
 	public static void dostuff() 
 	{		
-		domorestuff();		
+		//   domorestuff();		//   ***   don't comment it.  ***
 	}	
 	public static void domorestuff() throws InterruptedException
 	{
