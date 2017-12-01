@@ -27,6 +27,13 @@
        i) Static Polymorphism
        ii) Dynamic Polymorphism
 ###### "Automatic Promotion" in method overloading 
+###### 4) Serialization
+      1)Introduction,
+      2)Object Graphs in Serialization,
+      3)Customized Serialization,
+      4)serialization w.r.t Inheritance.
+      5)Externalization,
+      6)SerialVersionUID.
   ## 4)Multi-Threading
   ###### [Link of OOPS Concepts Examples in my Repo](https://github.com/kattakapilkumar/Java/tree/master/src/oops_concepts)
        1)Introduction
