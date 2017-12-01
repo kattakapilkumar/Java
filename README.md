@@ -27,7 +27,7 @@
        i) Static Polymorphism
        ii) Dynamic Polymorphism
 ###### "Automatic Promotion" in method overloading 
-###### 4) Serialization
+#   4) Serialization
       1)Introduction,
       2)Object Graphs in Serialization,
       3)Customized Serialization,
