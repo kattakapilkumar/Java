@@ -28,6 +28,7 @@
        ii) Dynamic Polymorphism
 ###### "Automatic Promotion" in method overloading 
 #   4) Serialization
+For Theory [wiki] (https://github.com/kattakapilkumar/Java/wiki/serialization).
       1)Introduction,
       2)Object Graphs in Serialization,
       3)Customized Serialization,
